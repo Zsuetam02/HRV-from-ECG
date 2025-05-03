@@ -1,0 +1,1 @@
+Determining heart rate variability signal HRV(t) with determination of diagnostically relevant indices from HRV(t). In time and frequency domain (ecg(t) signals from Physionet database or recorded from own sources)
